@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaishaliydv27
-- 👀 I’m interested in law 
-- 🌱 I’m currently learning BBA LKB
-- 💞️ I’m looking to collaborate on projects
+   I’m interested in law 
+-  I’m currently learning BBA LlB
+- I’m looking to collaborate on projects
 - 📫 How to reach me @vaishaliyadav.270@gmail.com
 
 <!---
